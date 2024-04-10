@@ -1,0 +1,4 @@
+{'precision': [0.9527174234390259],
+ 'recall': [0.8543784618377686],
+ 'f1': [0.9008722305297852],
+ 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.39.3)'}
